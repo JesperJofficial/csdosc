@@ -18,7 +18,7 @@ function draw() {
   background(0);
   fill(255);
   textAlign(CENTER);
-  textSize(72);
+  textSize(72); 
   text(counter + "", width / 2, height / 2);
   textSize(16);
   text(`nootpitch: [${nootpitch.join(", ")}]`, width / 2, height / 2 + 36);

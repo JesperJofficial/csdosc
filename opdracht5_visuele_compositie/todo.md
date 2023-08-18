@@ -37,6 +37,9 @@ bij duratie:
 
 bij amplitudes:
 - initial size
-- kleur van donker(zachter) naar lichter(harder)
+- kleur van donker(zachter) naar lichter(harder) | Lightness van HSL (Hue, Saturation, Lightness)
 
-bij beweging:
+## noot generatie algoritme
+
+pitch binnen een toonsoort
+toonsoort filter
